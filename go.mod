@@ -1,4 +1,4 @@
-module github.com/michaelpo/tablewriter-legacy
+module github.com/podtserkovskiy/tablewriter-legacy
 
 go 1.12
 
